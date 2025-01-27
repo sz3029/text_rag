@@ -1,0 +1,10 @@
+name: ai_research
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - langchain
+  - pandas
+  - pytorch
+prefix: /opt/miniconda3/envs/ai_research
